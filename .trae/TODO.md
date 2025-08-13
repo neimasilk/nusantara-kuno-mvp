@@ -1,0 +1,15 @@
+# TODO:
+
+- [x] 1: Initialize backend framework following backend_framework_init_guidelines (priority: High)
+- [x] 2: Set up Supabase project and get credentials (priority: High)
+- [x] 3: Create database schema with recipes, user_bookmarks, user_progress, and user_profiles tables (priority: High)
+- [x] 4: Set up project structure with components, pages, hooks, lib, and types folders (priority: High)
+- [x] 5: Configure Supabase client and environment variables (priority: High)
+- [x] 7: Implement authentication system with login/register pages (priority: High)
+- [x] 8: Create Home page with featured recipes and search functionality (priority: High)
+- [x] 9: Build Recipe List page with grid layout and regional filters (priority: High)
+- [x] 10: Develop Recipe Detail page with ingredients, steps, and cultural story (priority: High)
+- [x] 11: Create Profile page with user information and bookmarks (priority: High)
+- [x] 12: Fix TypeScript errors and database schema issues (priority: High)
+- [x] 6: Create TypeScript types for Recipe, UserBookmark, and UserProgress (priority: Medium)
+- [x] 13: Start development server and verify application is running (priority: Medium)
